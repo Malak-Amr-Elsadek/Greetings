@@ -1,0 +1,3 @@
+def Greeting():
+    print("Hello people that are new to codingal,Are you ready to unlock the superpower of coding and have some serious fun while at it? Let me introduce you to Codingal—the ultimate playground where creativity meets technology! Whether you’re dreaming of building games, designing apps, or becoming the next tech wizard, Codingal is your launchpad. It’s not just about learning to code—it’s about learning to create. With fun lessons, expert mentors, and challenges that make learning exciting, this is the place where young minds like yours come alive. So, why wait? Join Codingal today and turn your big ideas into reality—who knows, your future self might just thank you for it! 🚀")
+Greeting()
